@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DVvPKLbv.js"],function(t,e){"use strict";var n;return{setters:[function(t){n=t.d}],execute:function(){t("u",function(){return{copyToClipboard:function(t){n(t)}}})}}});
